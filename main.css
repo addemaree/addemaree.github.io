@@ -1,0 +1,125 @@
+﻿#page-top
+{
+	background-color: white;
+	margin: 0;
+}
+
+#mainNav{
+	padding:0px;
+}
+
+.navbar-custom .navbar-brand{
+	color: red;
+}
+
+.navbar-custom .nav li a{
+	color: red;
+}
+/* Header */
+
+#top{
+	background-image: url(img/header-photo.JPG)
+}
+
+.text-vertical-center{
+	margin-top: 50px;
+	padding-bottom: 75px;
+}
+#header-name{
+	color: white;
+	font-family: "Roboto Slab";
+	padding-top: 720px;
+	text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	font-size: 80px;
+}
+
+#sub-header-name{
+	color: white;
+	font-family: "Kaushan Script";
+	text-shadow: 0px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	font-size: 45px;
+}
+
+a{
+	color: red;
+}
+
+#header-button{
+	background-color: white;
+	opacity: 0.75;
+	border: 2px solid black;
+}
+
+/*About Me Section*/
+#about-section-heading{
+	margin-bottom: 60px;
+}
+
+.lead-paragraph{
+
+	font-family: sans-serif;
+	font-size: 25px;
+}
+.profile-photo{
+	float: right;
+	height: 530px;
+	width: 440px;
+	border-radius: 75px;
+	margin-left: 200px;
+}
+
+/*Skills Section*/
+
+#skills{
+	background-color: red;
+}
+
+#skills-section-heading{
+	margin-bottom: 60px;
+}
+
+#skills-row{
+	color: black;
+}
+
+.text-primary{
+	color: white;
+}
+
+#skills-button{
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+/*Portfolio Section*/
+
+#portfolio-section-heading{
+	margin-bottom: 60px;
+}
+
+#tri-mar-photo{
+	margin-bottom: 70px;
+}
+#tri-mar-logo{
+	border: 2px solid black;
+	margin-top: 90px;
+	margin-left: 30px;
+
+}
+#adventure-game{
+	margin-bottom: 5px;
+}
+/*Contact Section*/
+
+#contact-1{
+	background-color: red;
+}
+
+#contact-section-heading{
+	margin-bottom: 60px;
+}
+
+.btn-xl{
+	border: 2px solid black;
+}
